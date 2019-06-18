@@ -14,7 +14,9 @@ List of freely available tools for MacOS
 * IntelliJ: https://www.jetbrains.com/idea/download/#section=mac
 * Quip: https://itunes.apple.com/us/app/quip/id1003160018?mt=12
 * Spectacle Window Manager: https://www.spectacleapp.com/
+* SQLQorkbenchJ: http://www.sql-workbench.eu/
 * Sublime Text Editor: https://www.sublimetext.com/
+* YubiSwitch: https://github.com/pallotron/yubiswitch
 
 ## CLI
 * iTerm: https://www.iterm2.com/
